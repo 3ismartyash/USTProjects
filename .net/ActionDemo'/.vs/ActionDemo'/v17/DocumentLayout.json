@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\ActionDemo\u0027\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5DD50A7-D9CF-4CC2-8C7F-57F6004702AA}|ActionDemo\u0027\\ActionDemo\u0027.csproj|c:\\users\\administrator\\source\\repos\\actiondemo\u0027\\actiondemo\u0027\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DD50A7-D9CF-4CC2-8C7F-57F6004702AA}|ActionDemo\u0027\\ActionDemo\u0027.csproj|solutionrelative:actiondemo\u0027\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5DD50A7-D9CF-4CC2-8C7F-57F6004702AA}|ActionDemo\u0027\\ActionDemo\u0027.csproj|c:\\users\\administrator\\source\\repos\\actiondemo\u0027\\actiondemo\u0027\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DD50A7-D9CF-4CC2-8C7F-57F6004702AA}|ActionDemo\u0027\\ActionDemo\u0027.csproj|solutionrelative:actiondemo\u0027\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ActionDemo\u0027\\ActionDemo\u0027\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ActionDemo\u0027\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ActionDemo\u0027\\ActionDemo\u0027\\Models\\Employee.cs",
+              "RelativeToolTip": "ActionDemo\u0027\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:16:46.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ActionDemo\u0027\\ActionDemo\u0027\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ActionDemo\u0027\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ActionDemo\u0027\\ActionDemo\u0027\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ActionDemo\u0027\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:41:28.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
