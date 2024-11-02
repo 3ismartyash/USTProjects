@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DorNetProjects\\AuthDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C543CB5F-D31C-474D-8E75-3367CAEC9355}|AuthDemo\\AuthDemo.csproj|d:\\dornetprojects\\authdemo\\authdemo\\authdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C543CB5F-D31C-474D-8E75-3367CAEC9355}|AuthDemo\\AuthDemo.csproj|solutionrelative:authdemo\\authdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C543CB5F-D31C-474D-8E75-3367CAEC9355}|AuthDemo\\AuthDemo.csproj|d:\\dornetprojects\\authdemo\\authdemo\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C543CB5F-D31C-474D-8E75-3367CAEC9355}|AuthDemo\\AuthDemo.csproj|solutionrelative:authdemo\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C543CB5F-D31C-474D-8E75-3367CAEC9355}|AuthDemo\\AuthDemo.csproj|d:\\dornetprojects\\authdemo\\authdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C543CB5F-D31C-474D-8E75-3367CAEC9355}|AuthDemo\\AuthDemo.csproj|solutionrelative:authdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C543CB5F-D31C-474D-8E75-3367CAEC9355}|AuthDemo\\AuthDemo.csproj|d:\\dornetprojects\\authdemo\\authdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C543CB5F-D31C-474D-8E75-3367CAEC9355}|AuthDemo\\AuthDemo.csproj|solutionrelative:authdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\DorNetProjects\\AuthDemo\\AuthDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthDemo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\DorNetProjects\\AuthDemo\\AuthDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthDemo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:07:35.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DorNetProjects\\AuthDemo\\AuthDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AuthDemo\\Program.cs",
+              "ToolTip": "D:\\DorNetProjects\\AuthDemo\\AuthDemo\\Program.cs",
+              "RelativeToolTip": "AuthDemo\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:22:52.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\DorNetProjects\\AuthDemo\\AuthDemo\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "AuthDemo\\Data\\AuthDbContext.cs",
+              "ToolTip": "D:\\DorNetProjects\\AuthDemo\\AuthDemo\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "AuthDemo\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:21:10.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthDemo",
+              "DocumentMoniker": "D:\\DorNetProjects\\AuthDemo\\AuthDemo\\AuthDemo.csproj",
+              "RelativeDocumentMoniker": "AuthDemo\\AuthDemo.csproj",
+              "ToolTip": "D:\\DorNetProjects\\AuthDemo\\AuthDemo\\AuthDemo.csproj",
+              "RelativeToolTip": "AuthDemo\\AuthDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T04:18:03.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
