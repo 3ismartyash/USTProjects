@@ -1,0 +1,8 @@
+<div>
+    <nav>
+      <a routerLink="/" *ngIf="isLoggedIn">Home</a>  <!-- Show 'Home' link only when logged in -->
+      <a routerLink="/auth" *ngIf="!isLoggedIn">Login/Register</a> <!-- Show 'Login/Register' link otherwise -->
+    </nav>
+  
+    <router-outlet></router-outlet>
+  </div>

@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DorNetProjects\\StudentsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|d:\\dornetprojects\\studentsapi\\studentsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|d:\\dornetprojects\\studentsapi\\studentsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|d:\\dornetprojects\\studentsapi\\studentsapi\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|d:\\dornetprojects\\studentsapi\\studentsapi\\controllers\\tblstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\controllers\\tblstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|d:\\dornetprojects\\studentsapi\\studentsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|d:\\dornetprojects\\studentsapi\\studentsapi\\models\\tblstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\models\\tblstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|d:\\dornetprojects\\studentsapi\\studentsapi\\migrations\\20241029091206_addtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44112BFF-0824-4FFB-9C8E-C30F7B1AF4DD}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\migrations\\20241029091206_addtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241029091206_addtodb.cs",
+              "DocumentMoniker": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Migrations\\20241029091206_addtodb.cs",
+              "RelativeDocumentMoniker": "StudentsAPI\\Migrations\\20241029091206_addtodb.cs",
+              "ToolTip": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Migrations\\20241029091206_addtodb.cs",
+              "RelativeToolTip": "StudentsAPI\\Migrations\\20241029091206_addtodb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:12:07.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentsAPI\\appsettings.json",
+              "ToolTip": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\appsettings.json",
+              "RelativeToolTip": "StudentsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T09:11:18.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsAPI\\Program.cs",
+              "ToolTip": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Program.cs",
+              "RelativeToolTip": "StudentsAPI\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:06:45.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentsAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentsAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T09:05:35.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TblStudent.cs",
+              "DocumentMoniker": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Models\\TblStudent.cs",
+              "RelativeDocumentMoniker": "StudentsAPI\\Models\\TblStudent.cs",
+              "ToolTip": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Models\\TblStudent.cs",
+              "RelativeToolTip": "StudentsAPI\\Models\\TblStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:03:58.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentsAPI\\Models\\StudentContext.cs",
+              "ToolTip": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Models\\StudentContext.cs",
+              "RelativeToolTip": "StudentsAPI\\Models\\StudentContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:03:32.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TblStudentsController.cs",
+              "DocumentMoniker": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Controllers\\TblStudentsController.cs",
+              "RelativeDocumentMoniker": "StudentsAPI\\Controllers\\TblStudentsController.cs",
+              "ToolTip": "D:\\DorNetProjects\\StudentsAPI\\StudentsAPI\\Controllers\\TblStudentsController.cs",
+              "RelativeToolTip": "StudentsAPI\\Controllers\\TblStudentsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:53:50.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
