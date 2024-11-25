@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\bin\Debug\net8.0\MajorityElement.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\bin\Debug\net8.0\MajorityElement.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\bin\Debug\net8.0\MajorityElement.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\bin\Debug\net8.0\MajorityElement.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\bin\Debug\net8.0\MajorityElement.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\obj\Debug\net8.0\MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\obj\Debug\net8.0\MajorityElement.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\obj\Debug\net8.0\MajorityElement.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\obj\Debug\net8.0\MajorityElement.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\obj\Debug\net8.0\MajorityElement.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\obj\Debug\net8.0\refint\MajorityElement.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\obj\Debug\net8.0\MajorityElement.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\obj\Debug\net8.0\MajorityElement.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MajorityElement\obj\Debug\net8.0\ref\MajorityElement.dll

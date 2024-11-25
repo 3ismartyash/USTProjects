@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A UST\\.NET\\PROGAMS\\PracticeProblems\\StringPrograms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94DB69-DF50-4672-99AA-E65DDB65A5B7}|CharReverse\\CharReverse.csproj|d:\\a ust\\.net\\progams\\practiceproblems\\stringprograms\\charreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F94DB69-DF50-4672-99AA-E65DDB65A5B7}|CharReverse\\CharReverse.csproj|solutionrelative:charreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCEB72-12DB-4E43-8E3E-A57DF6BA4035}|StringPrograms\\word reverse.csproj|d:\\a ust\\.net\\progams\\practiceproblems\\stringprograms\\stringprograms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCCEB72-12DB-4E43-8E3E-A57DF6BA4035}|StringPrograms\\word reverse.csproj|solutionrelative:stringprograms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8965EB47-1693-4D67-A936-8C9D294352D3}|SumOfNum\\SumOfNum.csproj|d:\\a ust\\.net\\progams\\practiceproblems\\stringprograms\\sumofnum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8965EB47-1693-4D67-A936-8C9D294352D3}|SumOfNum\\SumOfNum.csproj|solutionrelative:sumofnum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A UST\\.NET\\PROGAMS\\PracticeProblems\\StringPrograms\\SumOfNum\\Program.cs",
+              "RelativeDocumentMoniker": "SumOfNum\\Program.cs",
+              "ToolTip": "D:\\A UST\\.NET\\PROGAMS\\PracticeProblems\\StringPrograms\\SumOfNum\\Program.cs",
+              "RelativeToolTip": "SumOfNum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:13:34.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A UST\\.NET\\PROGAMS\\PracticeProblems\\StringPrograms\\CharReverse\\Program.cs",
+              "RelativeDocumentMoniker": "CharReverse\\Program.cs",
+              "ToolTip": "D:\\A UST\\.NET\\PROGAMS\\PracticeProblems\\StringPrograms\\CharReverse\\Program.cs",
+              "RelativeToolTip": "CharReverse\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T02:40:58.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A UST\\.NET\\PROGAMS\\PracticeProblems\\StringPrograms\\StringPrograms\\Program.cs",
+              "RelativeDocumentMoniker": "StringPrograms\\Program.cs",
+              "ToolTip": "D:\\A UST\\.NET\\PROGAMS\\PracticeProblems\\StringPrograms\\StringPrograms\\Program.cs",
+              "RelativeToolTip": "StringPrograms\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:54:48.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

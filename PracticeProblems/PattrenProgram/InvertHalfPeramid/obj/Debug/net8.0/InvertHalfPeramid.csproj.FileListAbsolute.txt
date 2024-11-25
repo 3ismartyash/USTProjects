@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\bin\Debug\net8.0\InvertHalfPeramid.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\bin\Debug\net8.0\InvertHalfPeramid.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\bin\Debug\net8.0\InvertHalfPeramid.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\bin\Debug\net8.0\InvertHalfPeramid.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\bin\Debug\net8.0\InvertHalfPeramid.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\obj\Debug\net8.0\InvertHalfPeramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\obj\Debug\net8.0\InvertHalfPeramid.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\obj\Debug\net8.0\InvertHalfPeramid.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\obj\Debug\net8.0\InvertHalfPeramid.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\obj\Debug\net8.0\InvertHalfPeramid.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\obj\Debug\net8.0\refint\InvertHalfPeramid.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\obj\Debug\net8.0\InvertHalfPeramid.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\obj\Debug\net8.0\InvertHalfPeramid.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\InvertHalfPeramid\obj\Debug\net8.0\ref\InvertHalfPeramid.dll

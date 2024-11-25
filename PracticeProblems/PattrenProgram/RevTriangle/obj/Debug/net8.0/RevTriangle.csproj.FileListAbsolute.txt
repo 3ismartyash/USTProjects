@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\bin\Debug\net8.0\RevTriangle.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\bin\Debug\net8.0\RevTriangle.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\bin\Debug\net8.0\RevTriangle.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\bin\Debug\net8.0\RevTriangle.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\bin\Debug\net8.0\RevTriangle.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\obj\Debug\net8.0\RevTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\obj\Debug\net8.0\RevTriangle.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\obj\Debug\net8.0\RevTriangle.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\obj\Debug\net8.0\RevTriangle.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\obj\Debug\net8.0\RevTriangle.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\obj\Debug\net8.0\refint\RevTriangle.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\obj\Debug\net8.0\RevTriangle.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\obj\Debug\net8.0\RevTriangle.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevTriangle\obj\Debug\net8.0\ref\RevTriangle.dll

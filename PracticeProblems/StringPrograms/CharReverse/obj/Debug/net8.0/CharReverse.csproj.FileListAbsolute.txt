@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\obj\Debug\net8.0\CharReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\obj\Debug\net8.0\CharReverse.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\obj\Debug\net8.0\CharReverse.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\obj\Debug\net8.0\CharReverse.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\bin\Debug\net8.0\CharReverse.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\bin\Debug\net8.0\CharReverse.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\bin\Debug\net8.0\CharReverse.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\bin\Debug\net8.0\CharReverse.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\bin\Debug\net8.0\CharReverse.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\obj\Debug\net8.0\CharReverse.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\obj\Debug\net8.0\refint\CharReverse.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\obj\Debug\net8.0\CharReverse.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\obj\Debug\net8.0\CharReverse.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\CharReverse\obj\Debug\net8.0\ref\CharReverse.dll

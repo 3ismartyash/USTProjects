@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\bin\Debug\net8.0\RevArr.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\bin\Debug\net8.0\RevArr.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\bin\Debug\net8.0\RevArr.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\bin\Debug\net8.0\RevArr.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\bin\Debug\net8.0\RevArr.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\obj\Debug\net8.0\RevArr.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\obj\Debug\net8.0\RevArr.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\obj\Debug\net8.0\RevArr.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\obj\Debug\net8.0\RevArr.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\obj\Debug\net8.0\RevArr.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\obj\Debug\net8.0\refint\RevArr.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\obj\Debug\net8.0\RevArr.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\obj\Debug\net8.0\RevArr.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RevArr\obj\Debug\net8.0\ref\RevArr.dll

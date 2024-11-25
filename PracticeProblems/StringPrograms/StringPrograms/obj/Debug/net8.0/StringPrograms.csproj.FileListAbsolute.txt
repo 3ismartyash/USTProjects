@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\refint\StringPrograms.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\ref\StringPrograms.dll

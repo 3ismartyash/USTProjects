@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\obj\Debug\net8.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\obj\Debug\net8.0\Example.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\obj\Debug\net8.0\Example.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\obj\Debug\net8.0\Example.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\bin\Debug\net8.0\Example.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\bin\Debug\net8.0\Example.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\bin\Debug\net8.0\Example.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\bin\Debug\net8.0\Example.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\bin\Debug\net8.0\Example.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\obj\Debug\net8.0\Example.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\obj\Debug\net8.0\refint\Example.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\obj\Debug\net8.0\Example.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\obj\Debug\net8.0\Example.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Example\obj\Debug\net8.0\ref\Example.dll

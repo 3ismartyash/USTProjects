@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\bin\Debug\net8.0\SortAnArr.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\bin\Debug\net8.0\SortAnArr.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\bin\Debug\net8.0\SortAnArr.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\bin\Debug\net8.0\SortAnArr.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\bin\Debug\net8.0\SortAnArr.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\obj\Debug\net8.0\SortAnArr.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\obj\Debug\net8.0\SortAnArr.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\obj\Debug\net8.0\SortAnArr.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\obj\Debug\net8.0\SortAnArr.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\obj\Debug\net8.0\SortAnArr.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\obj\Debug\net8.0\refint\SortAnArr.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\obj\Debug\net8.0\SortAnArr.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\obj\Debug\net8.0\SortAnArr.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\SortAnArr\obj\Debug\net8.0\ref\SortAnArr.dll

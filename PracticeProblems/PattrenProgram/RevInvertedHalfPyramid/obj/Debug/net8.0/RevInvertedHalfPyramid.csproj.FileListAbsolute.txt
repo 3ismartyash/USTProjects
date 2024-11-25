@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\bin\Debug\net8.0\RevInvertedHalfPyramid.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\bin\Debug\net8.0\RevInvertedHalfPyramid.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\bin\Debug\net8.0\RevInvertedHalfPyramid.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\bin\Debug\net8.0\RevInvertedHalfPyramid.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\bin\Debug\net8.0\RevInvertedHalfPyramid.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\obj\Debug\net8.0\RevInvertedHalfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\obj\Debug\net8.0\RevInvertedHalfPyramid.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\obj\Debug\net8.0\RevInvertedHalfPyramid.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\obj\Debug\net8.0\RevInvertedHalfPyramid.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\obj\Debug\net8.0\RevInvertedHalfPyramid.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\obj\Debug\net8.0\refint\RevInvertedHalfPyramid.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\obj\Debug\net8.0\RevInvertedHalfPyramid.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\obj\Debug\net8.0\RevInvertedHalfPyramid.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\RevInvertedHalfPyramid\obj\Debug\net8.0\ref\RevInvertedHalfPyramid.dll

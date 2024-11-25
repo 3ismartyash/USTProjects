@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\bin\Debug\net8.0\LongestConsecutiveSequence.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\bin\Debug\net8.0\LongestConsecutiveSequence.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\bin\Debug\net8.0\LongestConsecutiveSequence.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\bin\Debug\net8.0\LongestConsecutiveSequence.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\bin\Debug\net8.0\LongestConsecutiveSequence.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\obj\Debug\net8.0\LongestConsecutiveSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\obj\Debug\net8.0\LongestConsecutiveSequence.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\obj\Debug\net8.0\LongestConsecutiveSequence.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\obj\Debug\net8.0\LongestConsecutiveSequence.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\obj\Debug\net8.0\LongestConsecutiveSequence.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\obj\Debug\net8.0\refint\LongestConsecutiveSequence.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\obj\Debug\net8.0\LongestConsecutiveSequence.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\obj\Debug\net8.0\LongestConsecutiveSequence.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\LongestConsecutiveSequence\obj\Debug\net8.0\ref\LongestConsecutiveSequence.dll

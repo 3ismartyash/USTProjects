@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\bin\Debug\net8.0\RepeNotRepe.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\bin\Debug\net8.0\RepeNotRepe.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\bin\Debug\net8.0\RepeNotRepe.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\bin\Debug\net8.0\RepeNotRepe.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\bin\Debug\net8.0\RepeNotRepe.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\obj\Debug\net8.0\RepeNotRepe.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\obj\Debug\net8.0\RepeNotRepe.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\obj\Debug\net8.0\RepeNotRepe.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\obj\Debug\net8.0\RepeNotRepe.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\obj\Debug\net8.0\RepeNotRepe.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\obj\Debug\net8.0\refint\RepeNotRepe.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\obj\Debug\net8.0\RepeNotRepe.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\obj\Debug\net8.0\RepeNotRepe.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\RepeNotRepe\obj\Debug\net8.0\ref\RepeNotRepe.dll

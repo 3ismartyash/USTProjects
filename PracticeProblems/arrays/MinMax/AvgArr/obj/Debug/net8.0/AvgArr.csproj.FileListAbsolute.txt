@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\bin\Debug\net8.0\AvgArr.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\bin\Debug\net8.0\AvgArr.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\bin\Debug\net8.0\AvgArr.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\bin\Debug\net8.0\AvgArr.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\bin\Debug\net8.0\AvgArr.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\obj\Debug\net8.0\AvgArr.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\obj\Debug\net8.0\AvgArr.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\obj\Debug\net8.0\AvgArr.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\obj\Debug\net8.0\AvgArr.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\obj\Debug\net8.0\AvgArr.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\obj\Debug\net8.0\refint\AvgArr.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\obj\Debug\net8.0\AvgArr.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\obj\Debug\net8.0\AvgArr.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\AvgArr\obj\Debug\net8.0\ref\AvgArr.dll

@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\bin\Debug\net8.0\ProductExceptSelf.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\bin\Debug\net8.0\ProductExceptSelf.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\bin\Debug\net8.0\ProductExceptSelf.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\bin\Debug\net8.0\ProductExceptSelf.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\bin\Debug\net8.0\ProductExceptSelf.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\obj\Debug\net8.0\ProductExceptSelf.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\obj\Debug\net8.0\ProductExceptSelf.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\obj\Debug\net8.0\ProductExceptSelf.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\obj\Debug\net8.0\ProductExceptSelf.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\obj\Debug\net8.0\ProductExceptSelf.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\obj\Debug\net8.0\refint\ProductExceptSelf.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\obj\Debug\net8.0\ProductExceptSelf.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\obj\Debug\net8.0\ProductExceptSelf.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\ProductExceptSelf\obj\Debug\net8.0\ref\ProductExceptSelf.dll

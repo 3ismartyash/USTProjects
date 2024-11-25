@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\obj\Debug\net8.0\SumOfNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\obj\Debug\net8.0\SumOfNum.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\obj\Debug\net8.0\SumOfNum.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\obj\Debug\net8.0\SumOfNum.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\bin\Debug\net8.0\SumOfNum.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\bin\Debug\net8.0\SumOfNum.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\bin\Debug\net8.0\SumOfNum.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\bin\Debug\net8.0\SumOfNum.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\bin\Debug\net8.0\SumOfNum.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\obj\Debug\net8.0\SumOfNum.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\obj\Debug\net8.0\refint\SumOfNum.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\obj\Debug\net8.0\SumOfNum.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\obj\Debug\net8.0\SumOfNum.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\SumOfNum\obj\Debug\net8.0\ref\SumOfNum.dll

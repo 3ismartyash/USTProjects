@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\bin\Debug\net8.0\MissingNum.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\bin\Debug\net8.0\MissingNum.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\bin\Debug\net8.0\MissingNum.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\bin\Debug\net8.0\MissingNum.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\bin\Debug\net8.0\MissingNum.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\obj\Debug\net8.0\MissingNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\obj\Debug\net8.0\MissingNum.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\obj\Debug\net8.0\MissingNum.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\obj\Debug\net8.0\MissingNum.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\obj\Debug\net8.0\MissingNum.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\obj\Debug\net8.0\refint\MissingNum.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\obj\Debug\net8.0\MissingNum.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\obj\Debug\net8.0\MissingNum.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MissingNum\obj\Debug\net8.0\ref\MissingNum.dll

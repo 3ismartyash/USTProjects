@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\bin\Debug\net8.0\word reverse.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\bin\Debug\net8.0\word reverse.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\bin\Debug\net8.0\word reverse.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\bin\Debug\net8.0\word reverse.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\bin\Debug\net8.0\word reverse.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\word reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\word reverse.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\word reverse.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\word reverse.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\word reverse.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\refint\word reverse.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\word reverse.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\word reverse.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\StringPrograms\StringPrograms\obj\Debug\net8.0\ref\word reverse.dll

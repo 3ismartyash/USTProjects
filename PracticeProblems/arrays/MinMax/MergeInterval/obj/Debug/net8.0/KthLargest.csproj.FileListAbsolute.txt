@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\bin\Debug\net8.0\KthLargest.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\bin\Debug\net8.0\KthLargest.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\bin\Debug\net8.0\KthLargest.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\bin\Debug\net8.0\KthLargest.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\bin\Debug\net8.0\KthLargest.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\obj\Debug\net8.0\KthLargest.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\obj\Debug\net8.0\KthLargest.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\obj\Debug\net8.0\KthLargest.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\obj\Debug\net8.0\KthLargest.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\obj\Debug\net8.0\KthLargest.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\obj\Debug\net8.0\refint\KthLargest.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\obj\Debug\net8.0\KthLargest.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\obj\Debug\net8.0\KthLargest.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\MergeInterval\obj\Debug\net8.0\ref\KthLargest.dll

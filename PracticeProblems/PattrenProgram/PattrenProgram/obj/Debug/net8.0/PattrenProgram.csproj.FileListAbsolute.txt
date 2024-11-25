@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\bin\Debug\net8.0\PattrenProgram.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\bin\Debug\net8.0\PattrenProgram.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\bin\Debug\net8.0\PattrenProgram.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\bin\Debug\net8.0\PattrenProgram.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\bin\Debug\net8.0\PattrenProgram.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\obj\Debug\net8.0\PattrenProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\obj\Debug\net8.0\PattrenProgram.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\obj\Debug\net8.0\PattrenProgram.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\obj\Debug\net8.0\PattrenProgram.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\obj\Debug\net8.0\PattrenProgram.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\obj\Debug\net8.0\refint\PattrenProgram.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\obj\Debug\net8.0\PattrenProgram.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\obj\Debug\net8.0\PattrenProgram.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\PattrenProgram\obj\Debug\net8.0\ref\PattrenProgram.dll

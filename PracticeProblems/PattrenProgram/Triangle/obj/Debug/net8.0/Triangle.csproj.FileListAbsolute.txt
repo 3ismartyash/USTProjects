@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\bin\Debug\net8.0\Triangle.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\bin\Debug\net8.0\Triangle.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\bin\Debug\net8.0\Triangle.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\bin\Debug\net8.0\Triangle.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\bin\Debug\net8.0\Triangle.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\obj\Debug\net8.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\obj\Debug\net8.0\Triangle.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\obj\Debug\net8.0\Triangle.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\obj\Debug\net8.0\refint\Triangle.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\obj\Debug\net8.0\Triangle.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\obj\Debug\net8.0\Triangle.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\Triangle\obj\Debug\net8.0\ref\Triangle.dll

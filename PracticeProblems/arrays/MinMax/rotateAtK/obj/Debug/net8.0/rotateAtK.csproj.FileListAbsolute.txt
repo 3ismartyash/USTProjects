@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\bin\Debug\net8.0\rotateAtK.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\bin\Debug\net8.0\rotateAtK.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\bin\Debug\net8.0\rotateAtK.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\bin\Debug\net8.0\rotateAtK.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\bin\Debug\net8.0\rotateAtK.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\obj\Debug\net8.0\rotateAtK.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\obj\Debug\net8.0\rotateAtK.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\obj\Debug\net8.0\rotateAtK.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\obj\Debug\net8.0\rotateAtK.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\obj\Debug\net8.0\rotateAtK.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\obj\Debug\net8.0\refint\rotateAtK.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\obj\Debug\net8.0\rotateAtK.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\obj\Debug\net8.0\rotateAtK.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\arrays\MinMax\rotateAtK\obj\Debug\net8.0\ref\rotateAtK.dll

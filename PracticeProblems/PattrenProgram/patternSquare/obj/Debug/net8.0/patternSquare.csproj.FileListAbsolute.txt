@@ -1,0 +1,14 @@
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\bin\Debug\net8.0\patternSquare.exe
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\bin\Debug\net8.0\patternSquare.deps.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\bin\Debug\net8.0\patternSquare.runtimeconfig.json
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\bin\Debug\net8.0\patternSquare.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\bin\Debug\net8.0\patternSquare.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\obj\Debug\net8.0\patternSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\obj\Debug\net8.0\patternSquare.AssemblyInfoInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\obj\Debug\net8.0\patternSquare.AssemblyInfo.cs
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\obj\Debug\net8.0\patternSquare.csproj.CoreCompileInputs.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\obj\Debug\net8.0\patternSquare.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\obj\Debug\net8.0\refint\patternSquare.dll
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\obj\Debug\net8.0\patternSquare.pdb
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\obj\Debug\net8.0\patternSquare.genruntimeconfig.cache
+D:\A UST\.NET\PROGAMS\PracticeProblems\PattrenProgram\patternSquare\obj\Debug\net8.0\ref\patternSquare.dll
